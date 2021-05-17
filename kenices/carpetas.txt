@@ -1,0 +1,8 @@
+1.bd: es la carpeta de la base de datos.
+2.clases: Conexion a la BD.
+3.css: tiene los scripts css que serviran para dar estilo personalizado.
+4. img: tiene las imagenes que se agregaron a las vistas.
+5. js: tiene todos los scripts js para cada modulo para ejecutar las funciones de crud.
+6. librerias: tiene las librerias para la creacion del pdf, jquery, alertify, bootstrap y select 2.
+7.vistas: contendra todas las vistas de cada una de los modulos
+archivos: tiene todas las imagenes de los productos agregados.
